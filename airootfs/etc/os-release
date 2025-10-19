@@ -1,0 +1,11 @@
+NAME="Runa OS"
+PRETTY_NAME="Runa OS"
+ID=runa
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://runa-os.org/"
+DOCUMENTATION_URL="https://wiki.runa-os.org/"
+SUPPORT_URL="https://github.com/Runa-OS/"
+BUG_REPORT_URL="https://github.com/Runa-OS/runa-iso/issues"
+LOGO=runa
